@@ -10,4 +10,4 @@
 
 - **Marlon Giraldo Ramírez**  
   Cc: 1025645394  
-  Program: Ingeniería de Software
+  Program: Ingeniería de Sistemas
