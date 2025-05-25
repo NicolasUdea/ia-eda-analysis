@@ -12,4 +12,4 @@
   Cc: 1025645394  
   Program: Ingeniería de Sistemas
 
-Enlace vídeo Entrega 2: https://youtu.be/cBEJidefTXw
+Enlace del vídeo Entrega 2: https://youtu.be/cBEJidefTXw
